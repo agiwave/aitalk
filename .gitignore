@@ -59,4 +59,5 @@ ios/Runner.ipa
 /linux/out
 /macos/out
 .vs
+.vscode
 olm
