@@ -124,7 +124,7 @@ class EventVideoPlayerState extends State<EventVideoPlayer> {
                     child: IconButton(
                       style: IconButton.styleFrom(
                         backgroundColor:
-                            Theme.of(context).colorScheme.background,
+                            Theme.of(context).colorScheme.surface,
                       ),
                       icon: _isDownloading
                           ? const SizedBox(
